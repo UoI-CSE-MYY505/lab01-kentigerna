@@ -2,6 +2,7 @@
 # for MYY505 - Computer Architecture
 # Aris Efthymiou
 # Department of Computer Engineering, University of Ioannina
+#Aikaterini Panagiota Katsanou
 
 # These are comments! Anything up to the end of line is ignored
 
